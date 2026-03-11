@@ -9,3 +9,6 @@ model.fit(x, y)
 
 prediction=model.predict([[6]])
 print("Predicted value for 6 years experience: ", prediction[0])
+
+aaja raja aaja aaja ne raja
+titra titra tita teee titia ra tita deee    

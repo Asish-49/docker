@@ -35,3 +35,7 @@ jobs:
     - name: Run Docker Container
       run: |
         docker run docker_lr
+
+    - name: Deploy Container
+      run: |
+        docker run
